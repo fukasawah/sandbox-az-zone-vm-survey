@@ -1,0 +1,350 @@
+Welcome to Ubuntu 18.04.6 LTS (GNU/Linux 5.4.0-1070-azure x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Tue Mar  8 11:42:51 UTC 2022
+
+  System load:  0.0                Processes:           108
+  Usage of /:   1.1% of 123.88GB   Users logged in:     0
+  Memory usage: 22%                IP address for eth0: 10.0.0.5
+  Swap usage:   0%
+
+
+0 updates can be applied immediately.
+
+New release '20.04.4 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+PING vmftest1-6keq.japaneast.cloudapp.azure.com (20.89.65.24) 56(84) bytes of data.
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=1 ttl=59 time=0.924 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=2 ttl=59 time=0.675 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=3 ttl=59 time=0.731 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=4 ttl=59 time=1.07 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=5 ttl=59 time=1.88 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=6 ttl=59 time=0.791 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=7 ttl=59 time=1.44 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=8 ttl=59 time=0.975 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=9 ttl=59 time=0.701 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=10 ttl=59 time=0.673 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=11 ttl=59 time=1.09 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=12 ttl=59 time=0.628 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=13 ttl=59 time=0.951 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=14 ttl=59 time=0.716 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=15 ttl=59 time=0.810 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=16 ttl=59 time=0.795 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=17 ttl=59 time=0.834 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=18 ttl=59 time=0.986 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=19 ttl=59 time=0.790 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=20 ttl=59 time=0.683 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=21 ttl=59 time=1.28 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=22 ttl=59 time=1.05 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=23 ttl=59 time=1.42 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=24 ttl=59 time=1.46 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=25 ttl=59 time=0.742 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=26 ttl=59 time=0.952 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=27 ttl=59 time=0.679 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=28 ttl=59 time=1.57 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=29 ttl=59 time=1.39 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=30 ttl=59 time=0.861 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=31 ttl=59 time=0.817 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=32 ttl=59 time=0.846 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=33 ttl=59 time=1.19 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=34 ttl=59 time=1.05 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=35 ttl=59 time=1.06 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=36 ttl=59 time=0.897 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=37 ttl=59 time=1.06 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=38 ttl=59 time=0.883 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=39 ttl=59 time=0.927 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=40 ttl=59 time=0.819 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=41 ttl=59 time=0.955 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=42 ttl=59 time=0.838 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=43 ttl=59 time=0.650 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=44 ttl=59 time=0.718 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=45 ttl=59 time=1.32 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=46 ttl=59 time=1.31 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=47 ttl=59 time=1.12 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=48 ttl=59 time=0.978 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=49 ttl=59 time=1.37 ms
+64 bytes from 20.89.65.24 (20.89.65.24): icmp_seq=50 ttl=59 time=2.40 ms
+
+--- vmftest1-6keq.japaneast.cloudapp.azure.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 9893ms
+rtt min/avg/max/mdev = 0.628/1.016/2.405/0.341 ms
+PING vmftest2-6keq.japaneast.cloudapp.azure.com (20.78.0.58) 56(84) bytes of data.
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=1 ttl=57 time=2.68 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=2 ttl=57 time=2.47 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=3 ttl=57 time=2.77 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=4 ttl=57 time=2.03 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=5 ttl=57 time=2.04 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=6 ttl=57 time=2.41 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=7 ttl=57 time=2.17 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=8 ttl=57 time=2.71 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=9 ttl=57 time=2.43 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=10 ttl=57 time=2.06 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=11 ttl=57 time=2.55 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=12 ttl=57 time=2.11 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=13 ttl=57 time=2.30 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=14 ttl=57 time=1.77 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=15 ttl=57 time=2.27 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=16 ttl=57 time=2.23 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=17 ttl=57 time=2.00 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=18 ttl=57 time=2.89 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=19 ttl=57 time=2.04 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=20 ttl=57 time=2.20 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=21 ttl=57 time=2.02 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=22 ttl=57 time=2.14 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=23 ttl=57 time=2.56 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=24 ttl=57 time=2.03 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=25 ttl=57 time=2.34 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=26 ttl=57 time=1.93 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=27 ttl=57 time=1.95 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=28 ttl=57 time=1.96 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=29 ttl=57 time=2.15 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=30 ttl=57 time=1.96 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=31 ttl=57 time=2.17 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=32 ttl=57 time=2.36 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=33 ttl=57 time=2.22 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=34 ttl=57 time=2.12 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=35 ttl=57 time=2.82 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=36 ttl=57 time=2.28 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=37 ttl=57 time=2.00 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=38 ttl=57 time=2.11 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=39 ttl=57 time=2.16 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=40 ttl=57 time=2.09 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=41 ttl=57 time=2.26 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=42 ttl=57 time=2.33 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=43 ttl=57 time=2.57 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=44 ttl=57 time=2.12 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=45 ttl=57 time=2.98 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=46 ttl=57 time=1.94 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=47 ttl=57 time=2.03 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=48 ttl=57 time=2.50 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=49 ttl=57 time=2.33 ms
+64 bytes from 20.78.0.58 (20.78.0.58): icmp_seq=50 ttl=57 time=2.21 ms
+
+--- vmftest2-6keq.japaneast.cloudapp.azure.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 9833ms
+rtt min/avg/max/mdev = 1.772/2.260/2.987/0.273 ms
+PING vmftest3-6keq.japaneast.cloudapp.azure.com (52.246.168.236) 56(84) bytes of data.
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=1 ttl=57 time=2.01 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=2 ttl=57 time=2.23 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=3 ttl=57 time=1.74 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=4 ttl=57 time=2.26 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=5 ttl=57 time=1.68 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=6 ttl=57 time=1.91 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=7 ttl=57 time=2.45 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=8 ttl=57 time=2.11 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=9 ttl=57 time=1.76 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=10 ttl=57 time=1.71 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=11 ttl=57 time=1.97 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=12 ttl=57 time=1.83 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=13 ttl=57 time=1.78 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=14 ttl=57 time=2.32 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=15 ttl=57 time=2.06 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=16 ttl=57 time=1.55 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=17 ttl=57 time=2.44 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=18 ttl=57 time=1.90 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=19 ttl=57 time=1.48 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=20 ttl=57 time=1.65 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=21 ttl=57 time=1.59 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=22 ttl=57 time=2.12 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=23 ttl=57 time=1.62 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=24 ttl=57 time=1.82 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=25 ttl=57 time=1.71 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=26 ttl=57 time=1.58 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=27 ttl=57 time=2.07 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=28 ttl=57 time=1.65 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=29 ttl=57 time=2.31 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=30 ttl=57 time=3.60 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=31 ttl=57 time=2.00 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=32 ttl=57 time=7.11 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=33 ttl=57 time=1.59 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=34 ttl=57 time=1.99 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=35 ttl=57 time=1.79 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=36 ttl=57 time=1.83 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=37 ttl=57 time=1.86 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=38 ttl=57 time=1.99 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=39 ttl=57 time=1.98 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=40 ttl=57 time=1.73 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=41 ttl=57 time=2.08 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=42 ttl=57 time=2.08 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=43 ttl=57 time=1.81 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=44 ttl=57 time=1.58 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=45 ttl=57 time=2.19 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=46 ttl=57 time=2.00 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=47 ttl=57 time=1.86 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=48 ttl=57 time=2.21 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=49 ttl=57 time=1.91 ms
+64 bytes from 52.246.168.236 (52.246.168.236): icmp_seq=50 ttl=57 time=1.68 ms
+
+--- vmftest3-6keq.japaneast.cloudapp.azure.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 9921ms
+rtt min/avg/max/mdev = 1.481/2.048/7.117/0.798 ms
+PING vmftest1-4tqb.japaneast.cloudapp.azure.com (20.89.66.138) 56(84) bytes of data.
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=1 ttl=59 time=1.12 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=2 ttl=59 time=1.68 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=3 ttl=59 time=1.16 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=4 ttl=59 time=1.79 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=5 ttl=59 time=1.84 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=6 ttl=59 time=1.24 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=7 ttl=59 time=1.14 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=8 ttl=59 time=1.32 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=9 ttl=59 time=1.03 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=10 ttl=59 time=1.02 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=11 ttl=59 time=1.50 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=12 ttl=59 time=0.987 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=13 ttl=59 time=1.31 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=14 ttl=59 time=1.63 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=15 ttl=59 time=1.11 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=16 ttl=59 time=1.57 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=17 ttl=59 time=1.17 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=18 ttl=59 time=1.49 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=19 ttl=59 time=1.46 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=20 ttl=59 time=1.52 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=21 ttl=59 time=1.29 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=22 ttl=59 time=1.16 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=23 ttl=59 time=1.03 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=24 ttl=59 time=1.53 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=25 ttl=59 time=1.76 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=26 ttl=59 time=1.26 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=27 ttl=59 time=1.57 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=28 ttl=59 time=1.28 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=29 ttl=59 time=1.14 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=30 ttl=59 time=1.14 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=31 ttl=59 time=1.04 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=32 ttl=59 time=1.73 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=33 ttl=59 time=1.18 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=34 ttl=59 time=1.25 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=35 ttl=59 time=1.60 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=36 ttl=59 time=2.18 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=37 ttl=59 time=1.54 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=38 ttl=59 time=1.10 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=39 ttl=59 time=1.28 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=40 ttl=59 time=1.78 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=41 ttl=59 time=1.00 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=42 ttl=59 time=0.930 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=43 ttl=59 time=1.39 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=44 ttl=59 time=1.46 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=45 ttl=59 time=1.17 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=46 ttl=59 time=1.05 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=47 ttl=59 time=1.02 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=48 ttl=59 time=1.04 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=49 ttl=59 time=0.959 ms
+64 bytes from 20.89.66.138 (20.89.66.138): icmp_seq=50 ttl=59 time=1.12 ms
+
+--- vmftest1-4tqb.japaneast.cloudapp.azure.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 9837ms
+rtt min/avg/max/mdev = 0.930/1.325/2.185/0.285 ms
+PING vmftest2-4tqb.japaneast.cloudapp.azure.com (52.246.169.72) 56(84) bytes of data.
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=1 ttl=57 time=1.82 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=2 ttl=57 time=1.54 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=3 ttl=57 time=1.78 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=4 ttl=57 time=2.71 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=5 ttl=57 time=1.82 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=6 ttl=57 time=3.84 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=7 ttl=57 time=2.72 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=8 ttl=57 time=2.08 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=9 ttl=57 time=1.69 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=10 ttl=57 time=2.74 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=11 ttl=57 time=1.73 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=12 ttl=57 time=2.07 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=13 ttl=57 time=1.66 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=14 ttl=57 time=1.84 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=15 ttl=57 time=4.20 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=16 ttl=57 time=2.55 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=17 ttl=57 time=2.15 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=18 ttl=57 time=1.92 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=19 ttl=57 time=2.19 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=20 ttl=57 time=2.10 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=21 ttl=57 time=2.08 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=22 ttl=57 time=2.31 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=23 ttl=57 time=1.96 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=24 ttl=57 time=2.20 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=25 ttl=57 time=1.76 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=26 ttl=57 time=1.86 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=27 ttl=57 time=1.92 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=28 ttl=57 time=1.75 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=29 ttl=57 time=2.24 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=30 ttl=57 time=1.91 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=31 ttl=57 time=1.88 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=32 ttl=57 time=1.68 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=33 ttl=57 time=1.69 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=34 ttl=57 time=1.90 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=35 ttl=57 time=1.71 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=36 ttl=57 time=2.90 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=37 ttl=57 time=1.62 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=38 ttl=57 time=2.21 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=39 ttl=57 time=6.72 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=40 ttl=57 time=8.02 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=41 ttl=57 time=2.01 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=42 ttl=57 time=1.97 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=43 ttl=57 time=2.05 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=44 ttl=57 time=2.45 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=45 ttl=57 time=1.64 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=46 ttl=57 time=1.83 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=47 ttl=57 time=1.62 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=48 ttl=57 time=2.09 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=49 ttl=57 time=1.89 ms
+64 bytes from 52.246.169.72 (52.246.169.72): icmp_seq=50 ttl=57 time=1.72 ms
+
+--- vmftest2-4tqb.japaneast.cloudapp.azure.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 9837ms
+rtt min/avg/max/mdev = 1.545/2.299/8.023/1.160 ms
+PING vmftest3-4tqb.japaneast.cloudapp.azure.com (20.78.1.36) 56(84) bytes of data.
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=1 ttl=57 time=2.33 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=2 ttl=57 time=2.19 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=3 ttl=57 time=2.14 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=4 ttl=57 time=1.98 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=5 ttl=57 time=2.87 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=6 ttl=57 time=3.02 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=7 ttl=57 time=2.31 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=8 ttl=57 time=2.97 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=9 ttl=57 time=2.27 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=10 ttl=57 time=3.01 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=11 ttl=57 time=2.61 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=12 ttl=57 time=2.45 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=13 ttl=57 time=2.19 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=14 ttl=57 time=2.04 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=15 ttl=57 time=2.26 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=16 ttl=57 time=2.27 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=17 ttl=57 time=3.04 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=18 ttl=57 time=2.38 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=19 ttl=57 time=2.07 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=20 ttl=57 time=3.07 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=21 ttl=57 time=2.14 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=22 ttl=57 time=2.28 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=23 ttl=57 time=2.46 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=24 ttl=57 time=2.39 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=25 ttl=57 time=2.54 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=26 ttl=57 time=2.08 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=27 ttl=57 time=2.09 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=28 ttl=57 time=2.69 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=29 ttl=57 time=2.71 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=30 ttl=57 time=2.42 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=31 ttl=57 time=2.49 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=32 ttl=57 time=2.33 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=33 ttl=57 time=2.60 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=34 ttl=57 time=2.54 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=35 ttl=57 time=2.17 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=36 ttl=57 time=2.25 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=37 ttl=57 time=2.75 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=38 ttl=57 time=2.44 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=39 ttl=57 time=2.10 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=40 ttl=57 time=2.65 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=41 ttl=57 time=1.83 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=42 ttl=57 time=2.21 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=43 ttl=57 time=2.89 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=44 ttl=57 time=2.17 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=45 ttl=57 time=2.76 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=46 ttl=57 time=2.33 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=47 ttl=57 time=2.19 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=48 ttl=57 time=3.37 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=49 ttl=57 time=2.84 ms
+64 bytes from 20.78.1.36 (20.78.1.36): icmp_seq=50 ttl=57 time=2.28 ms
+
+--- vmftest3-4tqb.japaneast.cloudapp.azure.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 9837ms
+rtt min/avg/max/mdev = 1.832/2.453/3.379/0.342 ms
