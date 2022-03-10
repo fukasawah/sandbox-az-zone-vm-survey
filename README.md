@@ -8,9 +8,10 @@
 - ssh-ping-test.sh: 各VMにSSH接続し、各VMにPingを飛ばし、ログを記録するスクリプト
 
 
-準備
+前提
 -------
 
+- Windows 10
 - Azure CLI
 - Git for windows (Git Bash, perlを利用する)
 
@@ -37,8 +38,10 @@ sourceAddressPrefix, vmPassword, vmUsernameを修正
 
 ### リソース作成する
 
-```
+Git Bashを開き、Azure CLIで操作していく。
 
+```
+# リソースグループ名を決める
 RESOURCE_GROUP_NAME='rg-fukasawah-example-2'
 
 # SUBSCRIPTION_1: Create ResourceGroup
